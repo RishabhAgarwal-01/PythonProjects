@@ -1,0 +1,41 @@
+# Byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.pkl
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Python environment files
+Pipfile.lock
+poetry.lock
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables file
+.env
+
+# MacOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+
+# Logs
+*.log
